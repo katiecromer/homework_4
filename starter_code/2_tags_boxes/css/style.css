@@ -1,0 +1,30 @@
+body {
+	font-style: Georgia;
+}
+
+/* This is a basic question, but how can I tell which font I'm supposed to use? Is there a resource 
+I can reference? */ 
+
+h1 {
+	background-color: red;
+	padding: 10px;
+	border: 3px solid black;
+
+}
+
+p {
+	background-color: blue;
+	padding: 10px;
+	color: white;
+	border: 3px solid black;
+
+}
+
+code {
+	background-color: white;
+	color: black;
+	padding: 1px;
+	border: 2px solid black;
+	font-size: 10px;
+}
+

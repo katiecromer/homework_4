@@ -1,0 +1,22 @@
+body {
+	font-family: Georgia, serif;
+	color: gray; 
+	line-height: 1.5;
+	margin-left: 40px;
+	}
+
+h1, em {
+	color: black;
+}
+
+p em {
+	font-weight: bold;
+}
+
+blockquote  p {
+	font-style: italic;
+}
+
+blockquote p em {
+	font-style: normal;
+}

@@ -1,0 +1,49 @@
+* {
+               -moz-box-sizing: border-box;      /* Firexfox */
+               -webkit-box-sizing: border-box;   /* Safari/Chrome/iOS/Android */
+                box-sizing: border-box;/* IE */
+} 
+
+
+body {
+	margin: 0;
+}
+
+header {
+	background-color: #ff9999;
+	border: 8px solid #ff1919;
+	height: 150px;
+	width: 100%;
+
+}
+
+#main {
+	float: left;
+	background-color: #ffff99;
+	border: 8px solid #ffff4c;
+	width: 66%;
+	height: 150px;
+
+}
+
+
+aside {
+	float: right;
+	display: inline-block;
+	background-color: #b2d8b2;
+	border: 8px solid #329932;
+	width: 34%;
+	height: 150px;
+}
+
+footer {
+	clear: both;
+	background-color: #7f7fff;
+	border: 8px solid #1919ff;
+	height: 150px;
+ 
+}
+
+.placeholder {
+
+}

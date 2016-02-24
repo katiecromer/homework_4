@@ -1,0 +1,36 @@
+body {
+	margin-left: 10px;
+}
+#notification {
+	background-color: #d3d3d3;
+	border: 3px solid #bdbdbd;
+	padding: 5px;
+}
+
+#notification > code, .message > code, p > code {
+	border: 2px solid #bdbdbd;
+	padding: 2px;
+}
+
+.message, #notification {
+	border: 3px solid #bdbdbd;
+}
+
+.message {
+	background-color: #ffffe5;
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+
+.error { 
+	background-color: #ffcccc;
+	border: 3px solid #ff6666;
+	padding: 10px;
+	line-height: 1.2;
+ }
+
+ .success {
+ 	background-color: #b2d8b2;
+ 	border: 3px solid #66b266;
+ }
